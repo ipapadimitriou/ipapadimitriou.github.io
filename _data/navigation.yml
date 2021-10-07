@@ -1,0 +1,58 @@
+# main links
+# main:
+    #- title: "Quick-Start Guide"
+    #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    #- title: "About"
+    #    url: https://mmistakes.github.io/minimal-mistakes/about/
+    #- title: "Sample Posts"
+    #    url: /year-archive/
+    #- title: "Sample Collections"
+    #    url: /collection-archive/
+    #- title: "Sitemap"
+    #    url: /sitemap/
+
+sitemap:
+    - title: "Sitemap"
+      children:
+          - title: "Home"
+            url: /index.html
+          - title: "Research"
+            url: /research.html
+          - title: "Publications"
+            url: /publications.html
+          - title: "Talks"
+            url: /talks.html
+          - title: "Teaching"
+            url: /teaching.html
+            
+contact:
+    - title: "Contact Information"
+      children:
+          - title: "Beijing Institute of Mathematical Sciences and Applications - BIMSA
+                    Yanqi Lake West Road, Huairou District Beijing, China"
+            url: http://www.bimsa.cn/wzsy  
+            
+          - title: "ioannis at bimsa dot cn"
+            url: mailto:ioannis@bimsa.cn  
+            
+
+publication links:
+    - title: "Links"
+      children:
+          - title: "arXiv"
+            url: https://arxiv.org/search/hep-th?searchtype=author&query=Papadimitriou%2C+I
+          - title: "inSPIRE"
+            url: https://inspirehep.net/authors/1023433?ui-citation-summary=true
+          - title: "ORCID"
+            url: https://orcid.org/0000-0001-5924-442X
+          - title: "Google Scholar"
+            url: https://scholar.google.it/citations?hl=en&user=XcjgDtwAAAAJ&view_op=list_works&sortby=pubdate
+          - title: "Research Gate"
+            url: https://www.researchgate.net/profile/Ioannis-Papadimitriou-3
+
+teaching links:
+    - title: "Links"
+      children:
+          - title: "Course website at BIMSA"
+            url: http://www.bimsa.cn/newsinfo/526237.html
+          
