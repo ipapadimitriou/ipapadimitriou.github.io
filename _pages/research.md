@@ -31,6 +31,6 @@ sidebar:
 
 ### QFT boundary conditions, generalized symmetries and quantum anomalies
 
-### AdS black hole entropy counting 
+### Quantum black hole entropy 
 
 ### Low dimensional quantum gravity
