@@ -252,7 +252,11 @@ sidebar:
 <table style="width:100%">
 
   <tr>
-    <td rowspan="2">2021 </td> <td><em><a href="https://cmsa.fas.harvard.edu/5-5-2021-quantum-matter-seminar/">Anomalies and Supersymmetry</a></em>, Harvard Quantum Matter in Mathematics and Physics Seminar, Harvard University. (May 05, Online) [video]</td>
+    <td rowspan="3">2021 </td> <td><em>Κβαντικές Ανωμαλίες σε Υπερσυμμετρικές Θεωρίες Πεδίου</em>, University of Athens, Greece. (Oct. 01, Online) </td>
+  </tr>
+
+  <tr>
+    <td><em><a href="https://cmsa.fas.harvard.edu/5-5-2021-quantum-matter-seminar/">Anomalies and Supersymmetry</a></em>, Harvard Quantum Matter in Mathematics and Physics Seminar, Harvard University. (May 05, Online)</td>
   </tr>
 
   <tr>
