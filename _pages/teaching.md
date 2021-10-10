@@ -58,7 +58,7 @@ R. Bertlmann, Anomalies in quantum field theory. Oxford University Press, 1996.
 
 [Lecture 4](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 4.pdf): Path integral approach to anomalies, Fujikawa's derivation of the ABJ anomaly
 
-[Lecture 5](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 5.pdf): Path integral derivation of the non-Abelian anomaly, consistent \& covariant anomalies
+[Lecture 5](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 5.pdf): Fujikawa's derivation of the non-Abelian anomaly, consistent and covariant anomalies
 
 [Lecture 6](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 6.pdf): Heat kernel and zeta function regularization
 
@@ -98,8 +98,6 @@ Lecture 23: Generalized symmetries
 
 Lecture 24: Overview and outlook
 
-<b>Lecture Notes:</b><br>
-[[1]](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 1.pdf)  [[2]](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 2.pdf)    [[3]](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 3.pdf)   [[4]](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 4.pdf)   [[5]](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 5.pdf)   [[6]](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 6.pdf)
 
 <b>Problem Sets:</b><br>
 [[1]](./attachments/teaching/QFT Anomalies and Applications 2021/problem sets/2021.09.29 - problem set 1.pdf)
