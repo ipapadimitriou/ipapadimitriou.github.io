@@ -48,30 +48,30 @@ c) Lie algebras and groups<br>
 R. Bertlmann, Anomalies in quantum field theory. Oxford University Press, 1996.
 
 <b>Provisional Plan:</b><br>
-[Lecture 1](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 1.pdf): Symmetries, Ward identities and quantum anomalies
-[Lecture 2](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 2.pdf): Perturbative calculation of anomalies, ABJ anomaly
-[Lecture 3](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 3.pdf): Point-splitting regularization, non-Abelian anomalies
-[Lecture 4](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 4.pdf): Path integral approach to anomalies, Fujikawa's derivation of the ABJ anomaly
-[Lecture 5](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 5.pdf): Fujikawa's derivation of the non-Abelian anomaly, consistent and covariant anomalies
-[Lecture 6](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 6.pdf): Heat kernel and zeta function regularization
-Lecture 7: Differential forms, topology and physics 
-Lecture 8: Invariant polynomials and characteristic classes
-Lecture 9: Wess-Zumino considtions and the consistent anomaly
-Lecture 10: BRST algebra and anomaly descent
-Lecture 11: Covariant anomaly
-Lecture 12: Index theorems I
-Lecture 13: Index theorems II
-Lecture 14: Geometry
-Lecture 15: Gravitational anomalies 
-Lecture 16: Anomalies from supersymmetric quantum mechanics
-Lecture 17: Green-Schwarz mechanism
-Lecture 18: Anomaly inflow
-Lecture 19: Non-perturbative anomalies
-Lecture 20: 't Hooft anomaly matching
-Lecture 21: Weyl anomalies and the renormalization group
-Lecture 22: Anomalies in supersymmetric theories
-Lecture 23: Generalized symmetries
-Lecture 24: Overview and outlook
+[Lecture 1](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 1.pdf): Symmetries, Ward identities and quantum anomalies<br>
+[Lecture 2](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 2.pdf): Perturbative calculation of anomalies, ABJ anomaly<br>
+[Lecture 3](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 3.pdf): Point-splitting regularization, non-Abelian anomalies<br>
+[Lecture 4](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 4.pdf): Path integral approach to anomalies, Fujikawa's derivation of the ABJ anomaly<br>
+[Lecture 5](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 5.pdf): Fujikawa's derivation of the non-Abelian anomaly, consistent and covariant anomalies<br>
+[Lecture 6](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 6.pdf): Heat kernel and zeta function regularization<br>
+Lecture 7: Differential forms, topology and physics<br>
+Lecture 8: Invariant polynomials and characteristic classes<br>
+Lecture 9: Wess-Zumino considtions and the consistent anomaly<br>
+Lecture 10: BRST algebra and anomaly descent<br>
+Lecture 11: Covariant anomaly<br>
+Lecture 12: Index theorems I<br>
+Lecture 13: Index theorems II<br>
+Lecture 14: Geometry<br>
+Lecture 15: Gravitational anomalies<br>
+Lecture 16: Anomalies from supersymmetric quantum mechanics<br>
+Lecture 17: Green-Schwarz mechanism<br>
+Lecture 18: Anomaly inflow<br>
+Lecture 19: Non-perturbative anomalies<br>
+Lecture 20: 't Hooft anomaly matching<br>
+Lecture 21: Weyl anomalies and the renormalization group<br>
+Lecture 22: Anomalies in supersymmetric theories<br>
+Lecture 23: Generalized symmetries<br>
+Lecture 24: Overview and outlook<br>
 
 
 <b>Problem Sets:</b><br>
