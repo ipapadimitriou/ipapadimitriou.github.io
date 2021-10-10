@@ -56,7 +56,7 @@ R. Bertlmann, Anomalies in quantum field theory. Oxford University Press, 1996.
 [Lecture 6](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 6.pdf): Heat kernel and zeta function regularization<br>
 Lecture 7: Topology of gauge bundles and physics<br>
 Lecture 8: Invariant polynomials and characteristic classes<br>
-Lecture 9: Wess-Zumino considtions and the consistent anomaly<br>
+Lecture 9: Wess-Zumino conditions and the consistent anomaly<br>
 Lecture 10: BRST algebra and anomaly descent<br>
 Lecture 11: Covariant anomaly<br>
 Lecture 12: Index theorems I<br>
