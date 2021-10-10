@@ -49,18 +49,18 @@ R. Bertlmann, Anomalies in quantum field theory. Oxford University Press, 1996.
 
 <b>Provisional Plan:</b><br>
 
-Lecture 1: [Symmetries, Ward identities and quantum anomalies](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 1.pdf)
+[Lecture 1](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 1.pdf): Symmetries, Ward identities and quantum anomalies
 
-Lecture 2: [Perturbative calculation of anomalies, ABJ anomaly](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 2.pdf)
+[Lecture 2](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 2.pdf): Perturbative calculation of anomalies, ABJ anomaly
  
 
-Lecture 3: [Point-splitting regularization, non-Abelian anomalies](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 3.pdf)
+[Lecture 3](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 3.pdf): Point-splitting regularization, non-Abelian anomalies
 
-Lecture 4: [Path integral approach to anomalies, Fujikawa's derivation of the ABJ anomaly](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 4.pdf)
+[Lecture 4](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 4.pdf): Path integral approach to anomalies, Fujikawa's derivation of the ABJ anomaly
 
-Lecture 5: [Path integral derivation of the non-Abelian anomaly, consistent \& covariant anomalies](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 5.pdf)
+[Lecture 5](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 5.pdf): Path integral derivation of the non-Abelian anomaly, consistent \& covariant anomalies
 
-Lecture 6: [Heat kernel and zeta function regularization](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 6.pdf)
+[Lecture 6](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 6.pdf): Heat kernel and zeta function regularization
 
 Lecture 7: Differential forms, topology and physics 
 
