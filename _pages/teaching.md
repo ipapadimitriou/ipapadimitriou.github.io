@@ -47,6 +47,57 @@ c) Lie algebras and groups<br>
 <b>References:</b><br>
 R. Bertlmann, Anomalies in quantum field theory. Oxford University Press, 1996.
 
+<b>Provisional Plan:</b><br>
+
+Lecture 1: [Symmetries, Ward identities and quantum anomalies](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 1.pdf)
+
+Lecture 2: [Perturbative calculation of anomalies, ABJ anomaly](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 2.pdf)
+ 
+
+Lecture 3: [Point-splitting regularization, non-Abelian anomalies](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 3.pdf)
+
+Lecture 4: [Path integral approach to anomalies, Fujikawa's derivation of the ABJ anomaly](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 4.pdf)
+
+Lecture 5: [Path integral derivation of the non-Abelian anomaly, consistent \& covariant anomalies](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 5.pdf)
+
+Lecture 6: [Heat kernel and zeta function regularization](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 6.pdf)
+
+Lecture 7: Differential forms, topology and physics 
+
+Lecture 8: Invariant polynomials and characteristic classes
+
+Lecture 9: Wess-Zumino considtions and the consistent anomaly
+
+Lecture 10: BRST algebra and anomaly descent
+
+Lecture 11: Covariant anomaly
+
+Lecture 12: Index theorems I
+
+Lecture 13: Index theorems II
+
+Lecture 14: Geometry
+
+Lecture 15: Gravitational anomalies 
+
+Lecture 16: Anomalies from supersymmetric quantum mechanics
+
+Lecture 17: Green-Schwarz mechanism
+
+Lecture 18: Anomaly inflow
+
+Lecture 19: Non-perturbative anomalies
+
+Lecture 20: 't Hooft anomaly matching
+
+Lecture 21: Weyl anomalies and the renormalization group
+
+Lecture 22: Anomalies in supersymmetric theories
+
+Lecture 23: Generalized symmetries
+
+Lecture 24: Overview and outlook
+
 <b>Lecture Notes:</b><br>
 [[1]](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 1.pdf)  [[2]](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 2.pdf)    [[3]](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 3.pdf)   [[4]](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 4.pdf)   [[5]](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 5.pdf)   [[6]](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 6.pdf)
 
