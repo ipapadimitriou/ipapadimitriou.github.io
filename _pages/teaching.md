@@ -61,7 +61,7 @@ Lecture 10: BRST algebra and anomaly descent<br>
 Lecture 11: Covariant anomaly<br>
 Lecture 12: Index theorems I<br>
 Lecture 13: Index theorems II<br>
-Lecture 14: Geometry<br>
+Lecture 14: Connections and curvatures for local coordinate and Lorentz trasformations<br>
 Lecture 15: Gravitational anomalies<br>
 Lecture 16: Anomalies from supersymmetric quantum mechanics<br>
 Lecture 17: Green-Schwarz mechanism<br>
