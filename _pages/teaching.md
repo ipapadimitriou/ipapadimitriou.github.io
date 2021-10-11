@@ -59,19 +59,17 @@ Lecture 8: Invariant polynomials and characteristic classes<br>
 Lecture 9: Wess-Zumino conditions and the consistent anomaly<br>
 Lecture 10: BRST algebra and anomaly descent<br>
 Lecture 11: Covariant anomaly<br>
-Lecture 12: Index theorems I<br>
-Lecture 13: Index theorems II<br>
-Lecture 14: Connections and curvatures for local coordinate and Lorentz trasformations<br>
-Lecture 15: Gravitational anomalies<br>
-Lecture 16: Anomalies from supersymmetric quantum mechanics<br>
-Lecture 17: Green-Schwarz mechanism<br>
-Lecture 18: Anomaly inflow<br>
-Lecture 19: Non-perturbative anomalies<br>
-Lecture 20: 't Hooft anomaly matching<br>
-Lecture 21: Weyl anomalies and the renormalization group<br>
-Lecture 22: Anomalies in supersymmetric theories<br>
-Lecture 23: Generalized symmetries<br>
-Lecture 24: Overview and outlook<br>
+Lecture 12: Index theorems<br>
+Lecture 13: Connections and curvatures for local coordinate and Lorentz trasformations<br>
+Lecture 14: Gravitational anomalies<br>
+Lecture 15: Anomalies from supersymmetric quantum mechanics<br>
+Lecture 16: Green-Schwarz mechanism<br>
+Lecture 17: Anomaly inflow<br>
+Lecture 18: Non-perturbative anomalies<br>
+Lecture 19: 't Hooft anomaly matching<br>
+Lecture 20: Weyl anomalies and the renormalization group<br>
+Lecture 21: Anomalies in supersymmetric theories<br>
+Lecture 22: Generalized symmetries<br>
 
 
 <b>Problem Sets:</b><br>
