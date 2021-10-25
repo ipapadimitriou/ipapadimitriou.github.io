@@ -60,7 +60,7 @@ R. Bertlmann, Anomalies in quantum field theory. Oxford University Press, 1996.
 [Lecture 10](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 10.pdf): Wess-Zumino conditions and anomaly descent<br>
 [Lecture 11](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 11.pdf): Geometry of Faddeev-Popov ghosts and the covariant anomaly<br>
 Lecture 12: Index theorems<br>
-Lecture 13: Connections and curvatures for local coordinate and Lorentz trasformations<br>
+Lecture 13: Connections and curvatures for local coordinate and Lorentz transformations<br>
 Lecture 14: Gravitational anomalies<br>
 Lecture 15: Anomalies from supersymmetric quantum mechanics<br>
 Lecture 16: Green-Schwarz mechanism<br>
