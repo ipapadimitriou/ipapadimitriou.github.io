@@ -59,12 +59,12 @@ R. Bertlmann, Anomalies in quantum field theory. Oxford University Press, 1996.
 [Lecture 9](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 9.pdf):  Cartan homotopy formula and BRS transformations<br>
 [Lecture 10](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 10.pdf): Wess-Zumino conditions and anomaly descent<br>
 [Lecture 11](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 11.pdf): Geometry of Faddeev-Popov ghosts, covariant anomaly<br>
-[Lecture 12](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 12.pdf): Atiyah-Singer index theorem I (singlet anomaly)<br>
-Lecture 13: Atiyah-Singer index theorem II (non-Abelian anomaly), Riemannian geometry<br>
+[Lecture 12](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 12.pdf): Atiyah-Singer index theorem (singlet anomaly)<br>
+[Lecture 13](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 13.pdf): Family index theorem (non-Abelian anomaly)<br>
 Lecture 14: Gravitational anomalies<br>
 Lecture 15: Anomalies from supersymmetric quantum mechanics<br>
 Lecture 16: Green-Schwarz mechanism<br>
-Lecture 17: Anomaly inflow and the APS index theorem<br>
+Lecture 17: Anomaly inflow<br>
 Lecture 18: Non-perturbative anomalies<br>
 Lecture 19: 't Hooft anomaly matching<br>
 Lecture 20: Weyl anomalies and the renormalization group<br>
