@@ -46,6 +46,15 @@ c) Lie algebras and groups<br>
 
 <b>References:</b><br>
 R. Bertlmann, Anomalies in quantum field theory. Oxford University Press, 1996.
+Fiorenzo Bastianelli and Peter Van Nieuwenhuizen, Path Integrals and Anomalies in Curved Space. Cambridge University Press, 2006.
+Kazuo Fujikawa and Hiroshi Suzuki, Path Integrals and Quantum Anomalies. Oxford University Press, 2007.
+Adel Bilal, Lectures on Anomalies, <a href="https://arxiv.org/abs/0802.0634">[arXiv:0802.0634]</a>
+Jeffrey A. Harvey, TASI 2003 Lectures on Anomalies, <a href="https://arxiv.org/abs/hep-th/0509097">[arXiv:hep-th/0509097]</a>
+C.A. Scrucca, M. Serone, Anomalies in field theories with extra dimensions, <a href="https://arxiv.org/abs/hep-th/0403163">[arXiv:hep-th/0403163]</a>
+J. Zinn-Justin, Chiral Anomalies and Topology, <a href="https://arxiv.org/abs/hep-th/0201220v1">[arXiv:hep-th/0201220]</a>
+M. J. Duff, Twenty Years of the Weyl Anomaly, <a href="https://arxiv.org/abs/hep-th/9308075">[arXiv:hep-th/9308075]</a>
+Samuel Monnier, A Modern Point of View on Anomalies, <a href="https://arxiv.org/abs/1903.02828">[arXiv:1903.02828]</a>
+
 
 <b>Provisional Plan:</b><br>
 [Lecture 1](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 1.pdf): Symmetries, Ward identities and quantum anomalies<br>
