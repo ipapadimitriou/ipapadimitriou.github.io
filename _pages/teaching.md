@@ -61,8 +61,8 @@ R. Bertlmann, Anomalies in quantum field theory. Oxford University Press, 1996.
 [Lecture 11](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 11.pdf): Geometry of Faddeev-Popov ghosts, covariant anomaly<br>
 [Lecture 12](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 12.pdf): Atiyah-Singer index theorem (singlet anomaly)<br>
 [Lecture 13](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 13.pdf): Family index theorem (non-Abelian anomaly)<br>
-Lecture 14: Gravitational anomalies<br>
-Lecture 15: Anomalies from supersymmetric quantum mechanics<br>
+[Lecture 14](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 14.pdf): Riemannian geometry as a GL(d) or SO(d) gauge theory<br>
+Lecture 15: Gravitational anomalies, Anomalies from supersymmetric quantum mechanics<br>
 Lecture 16: Green-Schwarz mechanism<br>
 Lecture 17: Anomaly inflow<br>
 Lecture 18: Non-perturbative anomalies<br>
