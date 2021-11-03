@@ -45,15 +45,15 @@ b) Basic differential geometry (manifolds, forms, de Rham cohomology, Riemannian
 c) Lie algebras and groups<br>
 
 <b>References:</b><br>
-R. Bertlmann, Anomalies in quantum field theory. Oxford University Press, 1996.<br>
-Fiorenzo Bastianelli and Peter Van Nieuwenhuizen, Path Integrals and Anomalies in Curved Space. Cambridge University Press, 2006.<br>
-Kazuo Fujikawa and Hiroshi Suzuki, Path Integrals and Quantum Anomalies. Oxford University Press, 2007.<br>
-Adel Bilal, Lectures on Anomalies, <a href="https://arxiv.org/abs/0802.0634">[arXiv:0802.0634]</a><br>
-Jeffrey A. Harvey, TASI 2003 Lectures on Anomalies, <a href="https://arxiv.org/abs/hep-th/0509097">[arXiv:hep-th/0509097]</a><br>
-C.A. Scrucca, M. Serone, Anomalies in field theories with extra dimensions, <a href="https://arxiv.org/abs/hep-th/0403163">[arXiv:hep-th/0403163]</a><br>
-J. Zinn-Justin, Chiral Anomalies and Topology, <a href="https://arxiv.org/abs/hep-th/0201220v1">[arXiv:hep-th/0201220]</a><br>
-M. J. Duff, Twenty Years of the Weyl Anomaly, <a href="https://arxiv.org/abs/hep-th/9308075">[arXiv:hep-th/9308075]</a><br>
-Samuel Monnier, A Modern Point of View on Anomalies, <a href="https://arxiv.org/abs/1903.02828">[arXiv:1903.02828]</a><br>
+1. R. Bertlmann, Anomalies in quantum field theory. Oxford University Press, 1996.<br>
+2. Fiorenzo Bastianelli and Peter Van Nieuwenhuizen, Path Integrals and Anomalies in Curved Space. Cambridge University Press, 2006.<br>
+3. Kazuo Fujikawa and Hiroshi Suzuki, Path Integrals and Quantum Anomalies. Oxford University Press, 2007.<br>
+4. Adel Bilal, Lectures on Anomalies, <a href="https://arxiv.org/abs/0802.0634">[arXiv:0802.0634]</a><br>
+5. Jeffrey A. Harvey, TASI 2003 Lectures on Anomalies, <a href="https://arxiv.org/abs/hep-th/0509097">[arXiv:hep-th/0509097]</a><br>
+6. C.A. Scrucca, M. Serone, Anomalies in field theories with extra dimensions, <a href="https://arxiv.org/abs/hep-th/0403163">[arXiv:hep-th/0403163]</a><br>
+7. J. Zinn-Justin, Chiral Anomalies and Topology, <a href="https://arxiv.org/abs/hep-th/0201220v1">[arXiv:hep-th/0201220]</a><br>
+8. M. J. Duff, Twenty Years of the Weyl Anomaly, <a href="https://arxiv.org/abs/hep-th/9308075">[arXiv:hep-th/9308075]</a><br>
+9. Samuel Monnier, A Modern Point of View on Anomalies, <a href="https://arxiv.org/abs/1903.02828">[arXiv:1903.02828]</a><br>
 
 
 <b>Provisional Plan:</b><br>
