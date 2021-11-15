@@ -72,9 +72,9 @@ c) Lie algebras and groups<br>
 [Lecture 13](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 13.pdf): Family index theorem (non-Abelian anomaly)<br>
 [Lecture 14](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 14.pdf): Riemannian geometry as a GL(d) or SO(d) gauge theory<br>
 [Lecture 15](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 15.pdf): Gravitational anomalies<br>
-[Lecture 16](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 16.pdf): Mixed axial anomaly, anomalies from supersymmetric quantum mechanics<br>
-Lecture 17: Green-Schwarz mechanism, anomaly inflow<br>
-Lecture 18: Non-perturbative anomalies<br>
+[Lecture 16](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 16.pdf): Mixed axial anomaly, supersymmetric quantum mechanics<br>
+[Lecture 17](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 17.pdf): Mixed axial anomaly from supersymmetric quantum mechanics<br>
+Lecture 18: Green-Schwarz mechanism, anomaly inflow, non-perturbative anomalies<br>
 Lecture 19: 't Hooft anomaly matching<br>
 Lecture 20: Weyl anomalies and the renormalization group<br>
 Lecture 21: Anomalies in supersymmetric theories<br>
