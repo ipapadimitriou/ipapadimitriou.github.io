@@ -75,8 +75,8 @@ c) Lie algebras and groups<br>
 [Lecture 16](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 16.pdf): Mixed axial anomaly, supersymmetric quantum mechanics<br>
 [Lecture 17](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 17.pdf): Mixed axial anomaly from supersymmetric quantum mechanics<br>
 [Lecture 18](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 18.pdf): Green-Schwarz mechanism, anomaly inflow<br>
-Lecture 19: Anomaly inflow, non-perturbative anomalies, 't Hooft anomaly matching<br>
-Lecture 20: Weyl anomalies and the renormalization group<br>
+[Lecture 19](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 19.pdf): Anomaly inflow, non-perturbative anomalies<br>
+Lecture 20: Non-perturbative anomalies, 't Hooft anomaly matching, Weyl anomalies and the renormalization group<br>
 Lecture 21: Anomalies in supersymmetric theories<br>
 Lecture 22: Generalized symmetries<br>
 
