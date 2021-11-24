@@ -56,7 +56,7 @@ c) Lie algebras and groups<br>
 9. Samuel Monnier, A Modern Point of View on Anomalies, <a href="https://arxiv.org/abs/1903.02828">[arXiv:1903.02828]</a><br>
 
 
-<b>Provisional Plan:</b><br>
+<b>Lecture Notes:</b><br>
 [Lecture 1](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 1.pdf): Symmetries, Ward identities and quantum anomalies<br>
 [Lecture 2](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 2.pdf): Perturbative calculation of anomalies, ABJ anomaly<br>
 [Lecture 3](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 3.pdf): Point-splitting regularization, non-Abelian anomalies<br>
