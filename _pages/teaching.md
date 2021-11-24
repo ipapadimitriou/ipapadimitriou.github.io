@@ -76,7 +76,7 @@ c) Lie algebras and groups<br>
 [Lecture 17](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 17.pdf): Mixed axial anomaly from supersymmetric quantum mechanics<br>
 [Lecture 18](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 18.pdf): Green-Schwarz mechanism, anomaly inflow<br>
 [Lecture 19](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 19.pdf): Anomaly inflow, non-perturbative anomalies<br>
-[Lecture 20](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 19.pdf): Atiyah-Patodi-Singer index theorem, η-invariant, Dai-Freed partition function<br>
+[Lecture 20](./attachments/teaching/QFT Anomalies and Applications 2021/lecture notes/QFT Anomalies - Lecture 20.pdf): Atiyah-Patodi-Singer index theorem, η-invariant, Dai-Freed partition function<br>
 Lecture 21: Weyl anomalies and the renormalization group<br>
 Lecture 22: Anomalies in supersymmetric theories<br>
 
