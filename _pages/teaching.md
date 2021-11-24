@@ -53,7 +53,11 @@ c) Lie algebras and groups<br>
 6. C.A. Scrucca, M. Serone, Anomalies in field theories with extra dimensions, <a href="https://arxiv.org/abs/hep-th/0403163">[arXiv:hep-th/0403163]</a><br>
 7. J. Zinn-Justin, Chiral Anomalies and Topology, <a href="https://arxiv.org/abs/hep-th/0201220v1">[arXiv:hep-th/0201220]</a><br>
 8. M. J. Duff, Twenty Years of the Weyl Anomaly, <a href="https://arxiv.org/abs/hep-th/9308075">[arXiv:hep-th/9308075]</a><br>
-9. Samuel Monnier, A Modern Point of View on Anomalies, <a href="https://arxiv.org/abs/1903.02828">[arXiv:1903.02828]</a><br>
+9. Edward Witten, Fermion Path Integrals And Topological Phases, <a href="https://arxiv.org/abs/1508.04715">[arXiv:1508.04715]</a><br>
+10. Edward Witten, Kazuya Yonekura, Anomaly Inflow and the η-Invariant, <a href="https://arxiv.org/abs/1909.08775">[arXiv:1909.08775]</a><br>
+11. Samuel Monnier, A Modern Point of View on Anomalies, <a href="https://arxiv.org/abs/1903.02828">[arXiv:1903.02828]</a><br>
+12. Shun K. Kobayashi, Kazuya Yonekura, The Atiyah–Patodi–Singer index theorem from the axial anomaly, <a href="https://arxiv.org/abs/2103.10654">[arXiv:2103.10654]</a><br>
+
 
 
 <b>Lecture Notes:</b><br>
