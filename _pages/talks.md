@@ -32,6 +32,11 @@ sidebar:
 ### Plenary Conference Talks
 
 <table style="width:100%">
+
+  <tr>
+    <td rowspan="2" valign="top">2021</td> <td><em>Black hole superpotential as a unifying entropy function and BPS thermodynamics</em>, KIAS-YITP Joint Workshop 2021, Yukawa Institute for Theoretical Physics, Kyoto University, Japan (Dec. 13 - 16)</td>
+  </tr>
+
   <tr>
     <td rowspan="2" valign="top">2021</td> <td><em>Anomalies and Supersymmetry</em>, Fields, Strings and Geometries, Tsinghua University, Beijing, China (Sep. 24 - 26)</td>
   </tr>
