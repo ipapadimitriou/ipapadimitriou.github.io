@@ -34,11 +34,11 @@ sidebar:
 <table style="width:100%">
 
   <tr>
-    <td rowspan="2" valign="top">2021</td> <td><em>Black hole superpotential as a unifying entropy function and BPS thermodynamics</em>, <a href="https://www2.yukawa.kyoto-u.ac.jp/~kias-yitp2021/index.php">KIAS-YITP Joint Workshop 2021</a>, Yukawa Institute for Theoretical Physics, Kyoto University, Japan (Dec. 13 - 16)</td>
+    <td rowspan="3" valign="top">2021</td> <td><em>Black hole superpotential as a unifying entropy function and BPS thermodynamics</em>, <a href="https://www2.yukawa.kyoto-u.ac.jp/~kias-yitp2021/index.php">KIAS-YITP Joint Workshop 2021</a>, Yukawa Institute for Theoretical Physics, Kyoto University, Japan (Dec. 13 - 16)</td>
   </tr>
 
   <tr>
-    <td rowspan="2" valign="top">2021</td> <td><em>Anomalies and Supersymmetry</em>, <a href="https://ymsc-strings.github.io/gauge-theory-workshop-sept-2021/">Fields, Strings and Geometries</a>, Tsinghua University, Beijing, China (Sep. 24 - 26)</td>
+    <td><em>Anomalies and Supersymmetry</em>, <a href="https://ymsc-strings.github.io/gauge-theory-workshop-sept-2021/">Fields, Strings and Geometries</a>, Tsinghua University, Beijing, China (Sep. 24 - 26)</td>
   </tr>
 
   <tr>
