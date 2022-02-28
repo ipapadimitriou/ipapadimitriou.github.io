@@ -30,7 +30,7 @@ sidebar:
 </script>
 
 
-### Spring 2022 - Inroduction to Supergravity
+### [Spring 2022 - Inroduction to Supergravity](/2022.html)
 
-### Fall 2021 - Quantum Field Theory Anomalies and Applications
+### [Fall 2021 - Quantum Field Theory Anomalies and Applications](/2021.html)
 
