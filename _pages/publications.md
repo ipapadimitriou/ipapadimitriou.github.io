@@ -36,7 +36,7 @@ sidebar:
 <a href="https://arxiv.org/abs/2112.05954">[arXiv:2112.05954]</a>.
 
 38. Ruben Minasian, Ioannis Papadimitriou, Piljin Yi, Anomalies and Supersymmetry,
-<a href="https://arxiv.org/abs/2104.13391">[arXiv:2104.13391]</a>.
+<a href="https://arxiv.org/abs/2104.13391">[arXiv:2104.13391]</a>, <a href="https://doi.org/10.1103/PhysRevD.105.065005">Phys. Rev. D 105, 065005 (2022)</a>.
 
 37. Pankaj Chaturvedi, Ioannis Papadimitriou, Wei Song, Boyang Yu, <i>$AdS_3$ gravity and the complex SYK models</i>, <a href="https://arxiv.org/abs/2011.10001">[arXiv:2011.10001]</a>, <a href="https://doi.org/10.1007/JHEP05(2021)142">JHEP05(2021)142</a>.
 
