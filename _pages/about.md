@@ -2,16 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.uoa.gr/'>National and Kapodistrian University of Athens</a>. #Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Buidling Ι(Γ) Office 14</p>
+    <p>Division of Nuclear and Particle Physics</p>
+    <p>Department of Physics</p> 
+    <p>National and Kapodistrian University of Athens 
+    <p>Zografou | GR-157 84 Athens | Greece </p>
+    <p>(+30) 210-7276874</p>
+    <p>Ioannis.Papadimitriou[at]phys.uoa.gr</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
