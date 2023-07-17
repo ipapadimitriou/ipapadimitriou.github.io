@@ -9,13 +9,13 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Buidling Ι(Γ) Office 14</p>
+    <p>Buidling Ι(Γ) | Office 14</p>
     <p>Division of Nuclear and Particle Physics</p>
     <p>Department of Physics</p> 
     <p>National and Kapodistrian University of Athens</p>
     <p>Zografou | GR-157 84 Athens | Greece </p>
     <p>(+30) 210-7276874</p>
-    <p>Ioannis.Papadimitriou[at]phys.uoa.gr</p>
+    <a href='mailto:Ioannis.Papadimitriou@phys.uoa.gr'>Ioannis.Papadimitriou [at] phys.uoa.gr</a>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
