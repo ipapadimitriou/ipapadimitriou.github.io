@@ -12,7 +12,6 @@ profile:
     <p>Buidling Ι(Γ) Office 14</p>
     <p>Division of Nuclear and Particle Physics</p>
     <p>Department of Physics</p> 
-    #<p>National and Kapodistrian University of Athens</p>
     <p>Zografou | GR-157 84 Athens | Greece </p>
     <p>(+30) 210-7276874</p>
     <a href='mailto:Ioannis.Papadimitriou@phys.uoa.gr'>Ioannis.Papadimitriou [at]phys.uoa.gr</a>
