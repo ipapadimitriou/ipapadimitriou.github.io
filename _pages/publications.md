@@ -9,6 +9,10 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
+test1
+
 {% bibliography -f {{ site.scholar.bibliography }} %}
+
+test2
 
 </div>
