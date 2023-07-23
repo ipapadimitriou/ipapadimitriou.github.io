@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor of Physics at the <a href='https://www.uoa.gr/'>National and Kapodistrian University of Athens</a> # Address. Contacts. Moto. Etc.
+subtitle: Physics faculty @<a href='https://www.uoa.gr/'>National and Kapodistrian University of Athens</a> # Address. Contacts. Moto. Etc.
 
 profile:
   align: right
