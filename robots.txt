@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ipapadimitriou.github.io/sitemap.xml
+Sitemap: http://users.uoa.gr/~ipapadi//sitemap.xml
