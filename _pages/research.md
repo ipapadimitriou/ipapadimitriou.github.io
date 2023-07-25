@@ -2,10 +2,10 @@
 layout: page
 title: research
 permalink: /research/
-description: A growing collection of your cool projects.
+description: 
 nav: true
 nav_order: 1
-display_categories: [work, fun]
+display_categories: [QFT symmetries, low dimensional gravity]
 horizontal: false
 ---
 
@@ -56,3 +56,4 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
+

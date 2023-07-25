@@ -1,9 +1,9 @@
 ---
 layout: page
 title: QFT Anomalies & Applications
-description: graduate course given at the Beijing Institute of Mathematical Sciences and applications (BIMSA) in the fall of 2021
+description: graduate course given at the Beijing Institute of Mathematical Sciences and Applications (BIMSA) in the fall of 2021
 img: 
-importance: 1
+importance: 2
 category: graduate
 related_publications: 
 ---

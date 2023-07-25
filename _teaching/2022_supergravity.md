@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Introduction to Supergravity
-description: graduate course given at the Beijing Institute of Mathematical Sciences and applications (BIMSA) and Tsinghua University in the spring of 2022
+description: graduate course given at the Beijing Institute of Mathematical Sciences and Applications (BIMSA) and Tsinghua University in the spring of 2022
 img: 
-importance: 1
+importance: 3
 category: graduate
 related_publications: 
 ---

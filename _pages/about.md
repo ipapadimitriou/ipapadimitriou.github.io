@@ -11,8 +11,8 @@ profile:
   address: >
     <p>Buidling Ι(Γ) Office 14</p>
     <p>Division of Nuclear and Particle Physics</p>
-    <p>Department of Physics</p> 
-    <p>Zografou | GR-157 84 Athens | Greece </p>
+    <p>Department of Physics</p>
+    <p>Zografou | GR-157 84 Athens | Greece</p>
     <p>(+30) 210-7276874</p>
 
 news: true  # includes a list of news items

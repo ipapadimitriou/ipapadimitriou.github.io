@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Math Methods for Physics 2
-description: undergraduate course given at the National and Kapodistrian University of Athens
+title: Advanced topics in QFT
+description: graduate course given at the National and Kapodistrian University of Athens
 img: 
-importance: 3
-category: undergraduate
+importance: 1
+category: graduate
 related_publications: 
 ---
 
@@ -27,7 +27,7 @@ related_publications:
 </script>
 
 
-### Mathematical Methods for Physics II (10ΥΚΟ16)
+### Advanced topics in QFT
 
 <b>Dates:</b> <br>
 <b>Venue:</b> <br>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Electromagnetism 1
-description: undegraduate course given at the National and Kapodistrian University of Athens
+description: undergraduate course given at the National and Kapodistrian University of Athens
 img: 
 importance: 1
 category: undergraduate
