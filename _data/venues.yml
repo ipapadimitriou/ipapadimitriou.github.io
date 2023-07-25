@@ -18,3 +18,44 @@
 "PRL":
   url: https://journals.aps.org/prl/
   color: "#517e66"
+  
+"IJMPA":
+  url: https://www.worldscientific.com/worldscinet/ijmpa
+  color: "#233b8b"  
+
+"NPB":
+  url: https://www.sciencedirect.com/journal/nuclear-physics-b
+  color: "#006622"
+
+"PLB":
+  url: https://www.sciencedirect.com/journal/physics-letters-b
+  color: "rgb(242, 115, 116)"
+  
+"JPB":
+  url: https://iopscience.iop.org/journal/0953-4075
+  color: "#9933ff"  
+ 
+"SPP":
+  url: https://www.springer.com/series/361
+  color: "#003eaa" 
+  
+"NPPP":
+  url: https://www.sciencedirect.com/journal/nuclear-and-particle-physics-proceedings
+  color: ""  
+ 
+"SS":
+  url: https://www.worldscientific.com/series/ss
+  color: "" 
+
+"IRMA":
+  url: https://ems.press/books/irma
+  color: "#0060df" 
+
+"FP":
+  url: https://onlinelibrary.wiley.com/journal/15213978
+  color: "#005274" 
+
+
+
+
+

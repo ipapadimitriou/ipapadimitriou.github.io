@@ -14,9 +14,8 @@ profile:
     <p>Department of Physics</p> 
     <p>Zografou | GR-157 84 Athens | Greece </p>
     <p>(+30) 210-7276874</p>
-    <a href='mailto:Ioannis.Papadimitriou@phys.uoa.gr'>Ioannis.Papadimitriou [at]phys.uoa.gr</a>
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page

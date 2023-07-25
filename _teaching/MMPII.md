@@ -1,10 +1,11 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
-description: (author names in alphabetical order)
-nav: true
-nav_order: 2
+title: Mathematical Methods for Physics 2
+description: undegraduate course given at the National and Kapodistrian University of Athens
+img: 
+importance: 1
+category: undergraduate
+related_publications: 
 ---
 
 <!--
@@ -26,25 +27,12 @@ nav_order: 2
 </script>
 
 
-<!-- _pages/publications.md -->
-<div class="publications">
+### Mathematical Methods for Physics II (10ΥΚΟ16)
 
-An up-to-date list is available on <a href='https://inspirehep.net/literature?q=a%20I.Papadimitriou.1'>iNSPIRE</a>
+<b>Dates:</b> <br>
+<b>Venue:</b> <br>
 
-<h1 style="text-align: left;">preprints</h1>
+<b>Description:</b><br> 
+Περιγραφή
 
-{% bibliography -f {{ site.scholar.bibliography }} -q @*[category~=preprint]* %}
 
-<h1 style="text-align: left;">refereed journals</h1>
-
-{% bibliography -f {{ site.scholar.bibliography }} -q @*[category~=article]* %}
-
-<h1 style="text-align: left;">refereed conference proceedings</h1>
-
- {% bibliography -f {{ site.scholar.bibliography }} -q @*[category~=proceedings]* %}
-
-<h1 style="text-align: left;">theses</h1>
-
-{% bibliography -f {{ site.scholar.bibliography }} -q @*[category~=thesis]* %}
-
-</div>
